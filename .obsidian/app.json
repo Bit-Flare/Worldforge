@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckDictionary": [
+    "Arcana"
+  ],
+  "legacyEditor": false,
+  "livePreview": false
+}

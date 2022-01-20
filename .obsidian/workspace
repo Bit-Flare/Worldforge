@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "34cb00e51d045c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "c007e651f5f05910",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System Doc.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3143236a05b8a591",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba661729a2ae4aa5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "594c22fdc8e67cfe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e3e545c03f8660b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c616b62abb397bc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "System Doc.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bcdbf939926d48e8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "System Doc.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c007e651f5f05910",
+  "lastOpenFiles": [
+    "System Doc.md",
+    "Feature and Character Ideas.md",
+    "Negotations.pdf",
+    "Dynamic Resources.png",
+    "Negotations.pdf.md",
+    "Concept Doc.md",
+    "Fate of Faerun/Initial Idea Doc.md",
+    "World of Fate/Concept Doc.md",
+    "2dX/Untitled.md",
+    "Fate of Faerun/Untitled.md"
+  ]
+}
