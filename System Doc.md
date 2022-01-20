@@ -113,9 +113,9 @@ Local Knowledge:
 #### Monsterology
 When players need to roll to figure out the non-human foe they're facing. Overlap is common between the skills
 
-Lore - mythical monsters
-Arcana - magical monsters
-Nature - beasts and natural monsters
+- Lore: mythical monsters
+- Arcana: magical monsters
+- Nature: beasts and natural monsters
 
 ## Fate Ladder
 | Value | Shifts    |
@@ -234,18 +234,25 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 [Props originate in Return to the Stars by Festive Ninja](https://msabalau.itch.io/return-to-the-stars-rpg)
 
 ## Magic System Options
--5E Style
-	Effective refresh allows for modular spells
-	or a variant of borrowed power [Fate System Toolkit, pg 132]
--"Magic" Skill
--Add a caster aspect/stunt, then use regular skills depending on the magical task
--Channeling [Fate System Toolkit, pg 131]
+- 5E Style
+	- Effective refresh allows for modular spells
+	- or a variant of borrowed power [Fate System Toolkit, pg 132]
+- "Magic" Skill
+- Add a caster aspect/stunt, then use regular skills depending on the magical task
+- Channeling [Fate System Toolkit, pg 131]
+- Runes [Fate Plus Vikings, pg 27]
 
 Spells are roughly stunts. Spell level is equivalent to their effective refresh
+
 Characters have a magic stress track. To cast a spell, a character has to take stress equal to the spell level. Upcasting is just requires taking more stress
+
 Magic Stress is just stress, and is recovered at the end of the scene. Consequently stress tracks have less stress then a caster would be able to cast in a single day
+
 To use magic, characters have to take an aspect describing their magic and its origin, and spend a refresh point to take “[magic type]-caster” Extra
-Magic is either derived from a magic skill or from specific skills based on the source of magic? (Roughly: Bard=Lore/Performance, Wizard=Arcana, Cleric/Paladin=Religion, Druid/Ranger=Nature, Psionic/Sorcerer=Will, Warlock=Contacts, exceptions are always possible, if not common among PC’s)
+
+Magic is either derived from a magic skill or from specific skills based on the source of magic? (Roughly: Bard=Lore/Performance, Wizard=Arcana, Cleric/Paladin=Religion, 
+
+Druid/Ranger=Nature, Psionic/Sorcerer=Will, Warlock=Contacts, exceptions are always possible, if not common among PC’s)
 
 Characters have a magic stress track. When casting spells, stress is taken - either based on  the power of the spell-stunt directly or the difference between a roll/skill value for the spell and the power of the spell-stunt (which can lead to more powerful characters not needing to spend stress for lower level spells) - unsure which. Normally stress steps down one box after every scene, except for pact-casters which gain them all back?
 
@@ -280,6 +287,7 @@ Aspects are a fundamental part of a character, describing them and their place i
 **Relationship:**
 **Other Aspect:**
 **Other Aspect:**
+Destiny Aspect?
 
 Characters may gain temporary situational aspects, but otherwise are losely limited to these. Aspects have no refresh cost. 
 
@@ -354,29 +362,50 @@ Montage
 
 ## Additional Mechanics
 Rethinking Stealth (Fate Codex Anthology Volume 2, pg 113)
+
 Duels (Fate System Toolkit, pg 168)?
+
 Survival, Alternatives to Notice, and Automatic Discovery (Fate Codex Anthology Volume 1, pg 46)
+
 Infiltration (Fate Codex Anthology Volume 1, 59)
+
 Expanded Chase Rules (Fate System Toolkit, pg 52)
+
 Collateral Consequences (Fate System Toolkit, pg 61)? 
+
 Corruption (Fate Codex Anthology Volume 2, pg 50)? 
+
 Conflict Countdowns & Twists (Fate Codex Anthology Volume 2, pg 108)
+
 Contagious Bites [Zombies, Vampires, Werewolves, etc.] (Fate Plus Issue 4, pg 17)
+
 Best Defense is a Good Offense (Fate Plus Issue 3, pg 7)
+
 Extra Actions and Fate point Uses (Fate Plus Issue 3, pg 8)
+
 Momentum Dice (Fate Codex Anthology Volume 1, pg 143)
+
 Dramatic Dice/Roll One Die at a Time (Fate Plus Issue 6, pg 18)
+
 Making Wands (Fate Plus Issue 10, pg 49)
+
 Scale (Fate System Toolkit, pg 67)
+
 Montage (Fate System Toolkit, pg 65)
+
+Looting Everything They Have - Easily modified for dungeon crawls (Fate Plus Vikings, pg 51)
 
 ## Advancement
 GM's change at the end of a 1-4 session arc/episode, with most advancement occurring after that
 
 Major advancements after completing a certain number of different difficulty quests/character achievements (Could be tide into goal aspects, complete a goal, defined by your aspect, get a major advancement. Maybe a couple of ways on top of that, defined by the group ahead of time?) 
 
+Goals + Quests completed + Achievements = Advancement
+
 PC's get normal advancement
+
 BBEG get advancement based on beating PC's?
+
 NPC's are static?
 
 #### Timing
@@ -390,12 +419,18 @@ NPC's are static?
 
 #### End of Arc Round-Up
 Players convene to make changes to the world
+
 Award most roleplaying and awesome moments
+
 Every arc a player completes gets them ability to change the world? -> Fate points can’t be used to declare major world features, that costs a refresh? At the end of every Arc, players get to add one for free?
 
 ## Monsters
 Fate Fantastic Creatures
+
 Zombies (Fate Plus Issue 4, pg 20)
+
 Monster Abilities (Fate Plus Issue 4, pg 24)
+
 Necromancy (Fate Plus Issue 10)
+
 Corruption (Fate of Cthulhu, pg 61)
