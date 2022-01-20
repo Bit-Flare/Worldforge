@@ -352,9 +352,6 @@ Contests
 Negotiations
 Montage
 
-
-
-
 ## Additional Mechanics
 Rethinking Stealth (Fate Codex Anthology Volume 2, pg 113)
 Duels (Fate System Toolkit, pg 168)?
