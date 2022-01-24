@@ -257,14 +257,26 @@ Druid/Ranger=Nature, Psionic/Sorcerer=Will, Warlock=Contacts, exceptions are alw
 Characters have a magic stress track. When casting spells, stress is taken - either based on  the power of the spell-stunt directly or the difference between a roll/skill value for the spell and the power of the spell-stunt (which can lead to more powerful characters not needing to spend stress for lower level spells) - unsure which. Normally stress steps down one box after every scene, except for pact-casters which gain them all back?
 
 ## World Creation & Exploration
-Map
-Zones
-#### Features: Faces, Places and Organizations
-Many types of features
-Major and minor features?
-Minor features are just an aspect where as major features have a full character sheet?
-Are faces features, or are they a part of the feature?
+#### The Almanac
+The Almanac is the document in which the game world is describe and changed. It is made of three parts: The world map (or maps, if you want to keep things like political boundaries and geographic features separate), the status bar (name subject to change), and the world information section. Everything in these sections is a feature with it’s own narrative description and feature sheet saying how it’s used in play.
 
+**The World Map** is probably what you’re going to be interacting with most. It is the complete map of the game world, generally on a macro level, and visually represents places, things, and ideas as they would be on a map. Common examples would be locations/geographic features, political boundaries, or objects of great importance.
+
+**The Status Bar** contains any features that would need to be seen or referenced frequently, but usually aren’t represented on a map. This would typically include things like events, alliances, and organizations.
+
+**The World Information Section** has just about everything else. It includes any features that don’t fit on the map or status bar, as well as narrative descriptions of features and past sessions.
+
+**Features:** Basically a noun? Or One of a few categories? -> Defined as a noun or concept, that’s the least restrictive while still giving guidance. Have a few starting sheets that are most common. Made of a name, high concept (Name is the high concept?) Narrative description, a handful of appropriate aspects (0-3), and stunts and skill depending on what it is?
+- Representative
+	- Thing
+	- Place
+- Symbolic
+	- Political
+	- Numerical
+- Events
+	- Movement of things and people
+- Orginizations
+- Faces
 
 **The Adventuring Party**
 The adventuring party is almost a character in itself, holding a reputation, talents and core ideals. 
