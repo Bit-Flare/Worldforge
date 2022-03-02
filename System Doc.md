@@ -278,6 +278,12 @@ Spells can either come from a predefined list, or be created dynamically by play
 - **Schooled Magic:** All spells are part of one or more schools, as listed on their sheet. These schools don't do anything on their own, but aspects, stunts, and abilities may tie into them for additional effect
 - **Learned Spells:** Spells can't be created dynamically as players cast them, but rather have to be learned, either through study or observation. Spells are treated as a form of gear between **Loot** and **Props**. They can be found during adventures as gear, and learned by a character with a successful magic roll. If the spell's use is limited to the adventure, then it can be treated as a prop. If it is permanent, it can't have an effective refresh more then the current maximum for loot, and anyone who meets the spells requirements can add it to their spell-list. Characters can attempt to create a spell through research. (Add in spellcrafting system where permanent spells additions take longer and are harder to do, but don't require additional refresh cost, and limited use spells function like props)
 
+#### Magic Skill
+
+#### Aspect Invocation
+Magic can only be used to create aspects
+
+#### Varying Skills
 
 ## World Creation & Exploration
 #### The Almanac
@@ -285,7 +291,7 @@ The Almanac is the document in which the game world is describe and changed. It 
 
 **The World Map** is probably what you’re going to be interacting with most. It is the complete map of the game world, generally on a macro level, and visually represents places, things, and ideas as they would be on a map. Common examples would be locations/geographic features, political boundaries, or objects of great importance.
 
-**The Status Bar** contains any features that would need to be seen or referenced frequently, but usually aren’t represented on a map. This would typically include things like events, alliances, and organizations.
+**The Status Bar** contains any features that would need to be seen or referenced frequently, but usually aren't represented on a map. This would typically include things like events, alliances, and organizations.
 
 **The World Information Section** has just about everything else. It includes any features that don’t fit on the map or status bar, as well as narrative descriptions of features and past sessions.
 
@@ -298,7 +304,7 @@ The Almanac is the document in which the game world is describe and changed. It 
 	- Numerical
 - Events
 	- Movement of things and people
-- Orginizations
+- Organizations
 - Faces
 
 **The Adventuring Party**
