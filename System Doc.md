@@ -1,9 +1,3 @@
-
-
-
-
-
-
 Total effective refresh = Free Refresh + Stunts + Skill Points/4 + Total Weapon & Armor Rating/2
 1 Refresh = 1 Stunt = 4 Skill Points = 2 Weapon/Armor Points
 
@@ -246,9 +240,7 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 [Props originate in Return to the Stars by Festive Ninja](https://msabalau.itch.io/return-to-the-stars-rpg)
 
 ## Magic System
-- 5E Style
-	- Effective refresh allows for modular spells
-	- or a variant of borrowed power [Fate System Toolkit, pg 132]
+- variant of borrowed power [Fate System Toolkit, pg 132]
 - "Magic" Skill
 - Add a caster aspect/stunt, then use regular skills depending on the magical task
 - Channeling [Fate System Toolkit, pg 131]
@@ -284,7 +276,7 @@ Spells can either come from a predefined list, or be created dynamically by play
 | Warlock        | Contacts         | 
 
 - **Schooled Magic:** All spells are part of one or more schools, as listed on their sheet. These schools don't do anything on their own, but aspects, stunts, and abilities may tie into them for additional effect
-- **Learned Spells:** Spells can't be created dynamically as players cast them, but rather have to be learned, either through study or observation. Spells are treated as a form of gear between **Loot** and **Props**. They can be found during adventures as gear, and learned by a character with a successful magic roll. If the spell's use is limited to the adventure, then it can be treated as a prop. If it is permanent, it can't have an effective refresh more then the current maximum for loot, and anyone who meets the spells requirements can add it to their spell-list. Characters can attempt to create a spell through research. [Add in spellcrafting system]
+- **Learned Spells:** Spells can't be created dynamically as players cast them, but rather have to be learned, either through study or observation. Spells are treated as a form of gear between **Loot** and **Props**. They can be found during adventures as gear, and learned by a character with a successful magic roll. If the spell's use is limited to the adventure, then it can be treated as a prop. If it is permanent, it can't have an effective refresh more then the current maximum for loot, and anyone who meets the spells requirements can add it to their spell-list. Characters can attempt to create a spell through research. (Add in spellcrafting system where permanent spells additions take longer and are harder to do, but don't require additional refresh cost, and limited use spells function like props)
 
 
 ## World Creation & Exploration
