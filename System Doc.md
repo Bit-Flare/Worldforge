@@ -240,11 +240,6 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 [Props originate in Return to the Stars by Festive Ninja](https://msabalau.itch.io/return-to-the-stars-rpg)
 
 ## Magic System
-- variant of borrowed power [Fate System Toolkit, pg 132]
-- "Magic" Skill
-- Add a caster aspect/stunt, then use regular skills depending on the magical task
-- Channeling [Fate System Toolkit, pg 131]
-- Runes [Fate Plus Vikings, pg 27]
 
 There are several pre-made options for including magic in a campaign:
 
@@ -284,6 +279,16 @@ Spells can either come from a predefined list, or be created dynamically by play
 Magic can only be used to create aspects
 
 #### Varying Skills
+- Add a caster aspect/stunt, then use regular skills depending on the magical task
+
+#### Channeling
+- Channeling [Fate System Toolkit, pg 131]
+
+#### Borrowed Power
+- variant of borrowed power [Fate System Toolkit, pg 132]
+
+#### Runes
+- Runes [Fate Plus Vikings, pg 27]
 
 ## World Creation & Exploration
 #### The Almanac
@@ -330,7 +335,7 @@ Aspects are a fundamental part of a character, describing them and their place i
 **Other Aspect:**
 Destiny Aspect?
 
-Characters may gain temporary situational aspects, but otherwise are losely limited to these. Aspects have no refresh cost. 
+Characters may gain temporary situational aspects, but otherwise are loosely limited to these. Aspects have no refresh cost. 
 
 #### Skills
 Skills are the standard abilities characters are good at. When picking skills, refresh is traded for skill points at the cost of one refresh for 4 skill points. Any skill without points is rated at a +0. Each point spent on a skill is equal to a +1, so 3 points spent on a skill means a +3. The maximum number of points that can be spent on a skill is equal to the number of refresh spent on skills.
@@ -342,31 +347,29 @@ A standard fate core character spends around 5 refresh (20 skill points) on skil
 **[Optional] Untrained Skills:** Characters who don’t have a skill points in a skill roll at a -1, rather than +0 representing their lack of training. This makes rolling skills outside of a characters depth much more punishing, which can be appropriate for some settings.
 
 #### Stunts
-Stunts are special abilities that a character has, helping them to do awesome things. Each stunt breaks the core rules in some way, giving a character a bonus they wouldn't have gotten in a special circumstances, allowing them to swap one skill for another in specific cases, or even creating a whole new action the character can take.
+Stunts are special abilities that a character has, helping them to do awesome things. Each stunt breaks the core rules in some way, giving a character a bonus they wouldn't have gotten in a special circumstances, allowing them to swap one skill for another in specific cases, or even creating a whole new action the character can take. In general, a stunt is worth a +2 to a skill in a specific situation and costs one refresh. If a player wants a stunt more powerful then this, they can either increase the refresh cost or impose a limit.
 
+Common Stunt Abilities:
+- Rules exception
+- +2 in a specific situation
+- Auto succeed in specific situations
+- Declare a story detail for free
+- Swap skills for specific situation
+- Specialize skills
 
-Can be used to do a variety of things
-Generally a rules exception or a +2 in a specific situation
-Auto succeed in specific situations
-Declare a story detail for free
-Can be used to swap stress track skills?
-Can be used to specialize skills
+Common Limits:
+- Once per session
+- Cost a fate point
 
-Limits examples:
-Once per session
-Cost a fate point
-
-
-
-**[Optional] Flaws:**
+**[Optional] Flaws:** Flaws are stunts that impose penalties on a character in exchange for extra refresh. This could include things like worse stress recovery, lowered skills in some situations, and, if the table agrees, and additional trouble aspect that can be compelled without the player receiving a fate point.
 
 #### Stress & Consequences
-Stress boxes and consequences are typically gained through skills, though feasible could be increased through stunts. Additional boxes or consequences aren’t directly bought with refresh.
+Stress boxes and consequences are typically gained through skills, though feasible could be increased through stunts. Additional boxes or consequences aren't directly bought with refresh.
 
 **[Optional] Conditions:** Conditions are like specialized stress tracks and/or consequences slots that can only be activated in specific situations. This could be used to represent a barbarians rage or debts to a fae. Cost typically ranges from 1-3 refresh, depending on the potency of the condition, as agreed on by the players.
 
 #### Gear
-Characters can purchase loot to be a part of their character sheet. Loot costs the total effective refresh used to build it, minus any adjustments. Adding gear can be particularly useful for characterization, such as when playing a gadgeteer, or a character that would possess an item of significance that goes beyond their aspects.
+Characters can purchase loot to be a part of their character sheet. Loot costs the total effective refresh used to build it, minus any adjustments. Adding gear can be particularly useful for characterization and flavor, such as when playing a gadgeteer, or a character that would possess an item of significance that goes beyond their aspects.
 
 #### [Optional] Allies, Companions, and Patrons
 Allies, companions, and patrons are three different but similar things, each having coming to the aid of a character or the party at a specific cost.
