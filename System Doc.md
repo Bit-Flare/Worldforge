@@ -378,7 +378,7 @@ Allies, companions, and patrons are three different but similar things, each hav
 
 **Allies**
 
-**Patrons**
+**Patrons** Give benefit for some cost, might be a parent organization, or something 
 
 #### [Optional] Reputation Track
 PC’s, parties, and other major characters each have an extra called the reputation track, with entries for each region or local they’ve been to and made an impression on. Each entry has a fame/infamy skill, along with a reputation aspect that describe the character of their reputation. These can be interacted with like normal skills and aspects. At the end of a session, if the PC’s or party took major actions (or inaction) in a region the aspect can be updated. Increasing the fame/infamy skill and swapping out the reputation aspect can either be done at advancements or as a reward by the party at the end of Arc round-up
@@ -386,9 +386,6 @@ PC’s, parties, and other major characters each have an extra called the reputa
 > [+2] **Slayer of The Velvet King**
 
 The track can also be simplified to one general reputation, with the level of fame/infamy also describing how far and wide the character is known.
-
-#### [Optional] Buy-In:
-Players buy in with refresh?
 
 ## Questing
 Quest Aspects (Fate System Toolkit, pg 15) for each quest or significant task the party accepts. These can be invoked and compelled like normal aspects. Fate points from compels are placed into the shared party pool
