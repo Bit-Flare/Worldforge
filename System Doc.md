@@ -206,7 +206,8 @@ All advanced gear has a total effective refresh, and is marked like a character 
 
 Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh. The loot given out by GM's can't have a total effective refresh greater than the major advancements earned by the party (Minimum 1).
 
-**Vehicles:** Vehicle sheets don’t take any additional rules, instead functioning as a type of gear. The stunts a vehicle has are more likely to be focused on movement, but otherwise it has the same cost, equal to its total effective refresh.
+**Vehicles:** If vehicles aren't an important part of the game, but a player wishes to have one, then they may be treated like a piece of 
+- Make and Model (High Concept), Manufacturing Defect (Trouble), cost refresh. By default only has consequences, but can given stress tracks through stunts (Cars generally need repair if damaged, but a spaceship might have adaptive shielding). For games where fuel matter, can have a fuel stress track for free. Can be tied into the carry-all wealth system through having it's own carrying capacity.
 
 **Weapon and Armor Ratings:** Sometimes weapons or armor are of a better quality then standard gear. This is represented by Weapon/Armor ratings. There two ways to handle weapon and armor ratings, depending on the tone of the game.
 
