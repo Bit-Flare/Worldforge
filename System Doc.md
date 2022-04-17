@@ -206,8 +206,11 @@ All advanced gear has a total effective refresh, and is marked like a character 
 
 Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh. The loot given out by GM's can't have a total effective refresh greater than the major advancements earned by the party (Minimum 1).
 
-**Vehicles:** If vehicles aren't an important part of the game, but a player wishes to have one, then they may be treated like a piece of 
-- Make and Model (High Concept), Manufacturing Defect (Trouble), cost refresh. By default only has consequences, but can given stress tracks through stunts (Cars generally need repair if damaged, but a spaceship might have adaptive shielding). For games where fuel matter, can have a fuel stress track for free. Can be tied into the carry-all wealth system through having it's own carrying capacity.
+**Vehicles:** If vehicles aren't an important part of the game, but a player wishes to have one, then they may be treated like a piece of loot created for the character under a vehicle theme. Under some circumstances a vehicle could be a prop, such as the party trying to hijack a getaway car. For games where vehicles are a major component of the setting more detailed rules are provided below:
+- **Aspects:** Vehicles typically have three aspects, a **Make and Model** taking the place of it’s High Concept, describing what kind of vehicle it is and other key information, a **Manufacturing Defect**  taking the place of it’s Trouble indicating the major flaw in it’s construction, and an additional free aspect
+-  By default vehicles only have a set of minor and moderate consequences, but can given stress tracks and expanded consequences through stunts if appropriate. Cars generally need repair if damaged, but a high-tech spaceship might have adaptive shielding. For games where fuel matters, all vehicles automatically get a fuel stress track using step-down or tended stress where appropriate.
+- Vehicles can easily be tied into the carry-all wealth system through having it's own carrying capacity.
+- Vehicles cost is determined by it’s total effective refresh, though if part of the conceit of setting, generally the characters won’t have to pay the cost, instead receiving it for free at an appropriate point in the campaign.
 
 **Weapon and Armor Ratings:** Sometimes weapons or armor are of a better quality then standard gear. This is represented by Weapon/Armor ratings. There two ways to handle weapon and armor ratings, depending on the tone of the game.
 
@@ -362,6 +365,7 @@ Common Stunt Abilities:
 - Declare a story detail for free
 - Swap skills for specific situation
 - Specialize skills
+- Increase scale in certain scenarios
 
 Common Limits:
 - Once per session
@@ -436,7 +440,7 @@ Dramatic Dice/Roll One Die at a Time (Fate Plus Issue 6, pg 18)
 
 Making Wands (Fate Plus Issue 10, pg 49)
 
-Scale (Fate System Toolkit, pg 67)
+Scale (Fate System Toolkit, pg 67 or Fate Condensed pg 52 [I think condensed is a bit more streamlined])
 
 Montage (Fate System Toolkit, pg 65)
 

@@ -9,3 +9,4 @@ Resources skill and stress representing taxes, expenditure, and debt
 Option to just play the kingdom as a character, or the option to tie PC’s into it for kingmaker style gameplay
 Building improvements -> creating aspects and improving skills?
 Ability to run independently of a GM and with a GM
+Can use scale against other notations and against PC’s
