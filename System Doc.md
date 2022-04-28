@@ -83,7 +83,7 @@ Skills that are uncommon, take specialty training, or don't fit elsewhere
 #### Alternative Skills
 Skills for different styles or genres of campaigns
 
-**History:** Knowledge of the past. Can be specialized with stunts. For games where this is a distinction between mythology and history
+**History:** Knowledge of the past. Can be specialized with stunts. For games where there is a distinction between mythology and history
 
 **Computers:** Advanced technological skills
 
@@ -98,9 +98,10 @@ Skills for different styles or genres of campaigns
 **Research:** Skill of conducting research. Overlaps a lot with investigation, but useful in some campaigns
 
 **Language:** On a per language basis. +4 being a native speaker
-Local Knowledge: 
 
-**Adventuring:** Catch all for adventuring knowledge (experience with monsters, common solutions, historic dungeon layouts, etc.)
+**Local Knowledge:** Understanding and ability to maximize utility of a place. Can either be a general skill if the setting is in a single region/city/town/etc. or on a per location basis 
+
+**Adventuring/Dungeonering:** Catch all for adventuring knowledge (experience with monsters, common solutions, historic dungeon layouts, etc.)
 
 **Gaming:** Playing games of skill. Can be on a per game basis, and can represent video or traditional games
 
