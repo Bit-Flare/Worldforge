@@ -1,4 +1,4 @@
-##World Forge Magic Pitch
+World Forge Magic Pitch
 
 My basic idea is that there are two independent magic systems with different rarities in the world, and would work best in a generally low-magic setting. These two 
 magic systems are split between a lost-language text based magic with more arcane vibes that is incredibly specialized information, and a ritual based magic system 
