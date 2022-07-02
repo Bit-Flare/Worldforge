@@ -83,7 +83,7 @@ Skills that are uncommon, take specialty training, or don't fit elsewhere
 #### Alternative Skills
 Skills for different styles or genres of campaigns
 
-**History:** Knowledge of the past. Can be specialized with stunts. For games where this is a distinction between mythology and history
+**History:** Knowledge of the past. Can be specialized with stunts. For games where there is a distinction between mythology and history
 
 **Computers:** Advanced technological skills
 
@@ -98,9 +98,10 @@ Skills for different styles or genres of campaigns
 **Research:** Skill of conducting research. Overlaps a lot with investigation, but useful in some campaigns
 
 **Language:** On a per language basis. +4 being a native speaker
-Local Knowledge: 
 
-**Adventuring:** Catch all for adventuring knowledge (experience with monsters, common solutions, historic dungeon layouts, etc.)
+**Local Knowledge:** Understanding and ability to maximize utility of a place. Can either be a general skill if the setting is in a single region/city/town/etc. or on a per location basis 
+
+**Adventuring/Dungeonering:** Catch all for adventuring knowledge (experience with monsters, common solutions, historic dungeon layouts, etc.)
 
 **Gaming:** Playing games of skill. Can be on a per game basis, and can represent video or traditional games
 
@@ -204,10 +205,19 @@ All advanced gear has a total effective refresh, and is marked like a character 
 
 **Loot** is created without a skill roll, and costs the gears total effective free refresh to add to a characters sheet. Loot without out any decreases in cost function mostly as flavor, as the character could gain the same benefit by purchasing the abilities directly. Loot with decreases in cost can function as a way to increase power with increased risk.
 
-Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh. The loot given out by GM's can't have a total effective refresh greater than the major advancements earned by the party (Minimum 1).
+Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh. 
 
-**Vehicles:** If vehicles aren't an important part of the game, but a player wishes to have one, then they may be treated like a piece of 
-- Make and Model (High Concept), Manufacturing Defect (Trouble), cost refresh. By default only has consequences, but can given stress tracks through stunts (Cars generally need repair if damaged, but a spaceship might have adaptive shielding). For games where fuel matter, can have a fuel stress track for free. Can be tied into the carry-all wealth system through having it's own carrying capacity.
+**Loot Limit:** The total effect refresh of all loot given out by GM's can't be greater than the total breakthroughs earned by current party members (Minimum 1) per Arc. As characters undergo character development, their capacity for power gain increases.
+
+**Cash-Out** Allows players to trade their gear for wealth & influence when appropriate
+Props -> Recover stress & Consequences
+Loot -> Trade for refresh directly
+
+**Vehicles:** If vehicles aren't an important part of the game, but a player wishes to have one, then they may be treated like a piece of loot created for the character under a vehicle theme. Under some circumstances a vehicle could be a prop, such as the party trying to hijack a getaway car. For games where vehicles are a major component of the setting more detailed rules are provided below:
+- **Aspects:** Vehicles typically have three aspects, a **Make and Model** taking the place of it’s High Concept, describing what kind of vehicle it is and other key information, a **Manufacturing Defect**  taking the place of it’s Trouble indicating the major flaw in it’s construction, and an additional free aspect
+-  By default vehicles only have a set of minor and moderate consequences, but can given stress tracks and expanded consequences through stunts if appropriate. Cars generally need repair if damaged, but a high-tech spaceship might have adaptive shielding. For games where fuel matters, all vehicles automatically get a fuel stress track using step-down or tended stress where appropriate.
+- Vehicles can easily be tied into the carry-all wealth system through having it's own carrying capacity.
+- Vehicles cost is determined by it’s total effective refresh, though if part of the conceit of setting, generally the characters won’t have to pay the cost, instead receiving it for free at an appropriate point in the campaign.
 
 **Weapon and Armor Ratings:** Sometimes weapons or armor are of a better quality then standard gear. This is represented by Weapon/Armor ratings. There two ways to handle weapon and armor ratings, depending on the tone of the game.
 
@@ -240,9 +250,11 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 
 [Props originate in Return to the Stars by Festive Ninja](https://msabalau.itch.io/return-to-the-stars-rpg)
 
-## Magic System
+## Magic & Superpowers
 
-There are several pre-made options for including magic in a campaign:
+There are several pre-made options for including magic in a campaign where it’s appropriate. The systems vary in there degree of complexity and rigidity depending on the style of play. None of the systems are inherently mutually exclusive, and can be used with other magic systems, though they may require tweaking to be balanced against one and other.
+
+-Add in bit on superpowers (like venture city)
 
 #### None
 If magic doesn't fit a campaign, don't include it.
@@ -274,6 +286,10 @@ Spells can either come from a predefined list, or be created dynamically by play
 - **Schooled Magic:** All spells are part of one or more schools, as listed on their sheet. These schools don't do anything on their own, but aspects, stunts, and abilities may tie into them for additional effect
 - **Learned Spells:** Spells can't be created dynamically as players cast them, but rather have to be learned, either through study or observation. Spells are treated as a form of gear between **Loot** and **Props**. They can be found during adventures as gear, and learned by a character with a successful magic roll. If the spell's use is limited to the adventure, then it can be treated as a prop. If it is permanent, it can't have an effective refresh more then the current maximum for loot, and anyone who meets the spells requirements can add it to their spell-list. Characters can attempt to create a spell through research. (Add in spellcrafting system where permanent spells additions take longer and are harder to do, but don't require additional refresh cost, and limited use spells function like props)
 
+#### Words of Power
+
+#### Ritual Magic
+
 #### Magic Skill
 
 #### Aspect Invocation
@@ -290,6 +306,7 @@ Magic can only be used to create aspects
 
 #### Runes
 - Runes [Fate Plus Vikings, pg 27]
+- Runic Enchantments?
 
 ## World Creation & Exploration
 #### The Almanac
@@ -321,6 +338,8 @@ Players may use the parties skill or stunts rather than their own, in cases wher
 Adventuring Parties receive advancements as players do, and all members decide on what improvements to pick. If players are receiving advancements unevenly, choose either to have the advancements of the party match those of the player with the most advancements, or achieve advancements once the majority of party members have them. Any refresh gain this way contributes to the shared party pool at the beginning of the session
 Additionally, Parties have an extreme consequence slot that any member can use to mitigate stress, describing how they pass the damage off on to the party, and irreparably change the bond between its members
 Maybe give players the option to burn party skill and stunts for bonuses/stress soaking?
+
+- Dungeon crawls and Exploration systems
 
 ## Character Creation
 Characters are a collection of aspects, flaws, stunts, skills, gear, and other features. They are built using a pool of starting refresh that can be turned basically any feature of the character.f the character.
@@ -357,6 +376,7 @@ Common Stunt Abilities:
 - Declare a story detail for free
 - Swap skills for specific situation
 - Specialize skills
+- Increase scale in certain scenarios
 
 Common Limits:
 - Once per session
@@ -387,10 +407,6 @@ PC’s, parties, and other major characters each have an extra called the reputa
 > [+2] **Slayer of The Velvet King**
 
 The track can also be simplified to one general reputation, with the level of fame/infamy also describing how far and wide the character is known.
-
-## Questing
-Quest Aspects (Fate System Toolkit, pg 15) for each quest or significant task the party accepts. These can be invoked and compelled like normal aspects. Fate points from compels are placed into the shared party pool
-Mission as Character (Fate Plus Issue 5, pg 19)
 
 ## Modes of Conflict
 Challenges
@@ -431,30 +447,92 @@ Dramatic Dice/Roll One Die at a Time (Fate Plus Issue 6, pg 18)
 
 Making Wands (Fate Plus Issue 10, pg 49)
 
-Scale (Fate System Toolkit, pg 67)
+Scale (Fate System Toolkit, pg 67 or Fate Condensed pg 52 [I think condensed is a bit more streamlined])
 
 Montage (Fate System Toolkit, pg 65)
 
 Looting Everything They Have - Easily modified for dungeon crawls (Fate Plus Vikings, pg 51)
 
+Resting
+
 ## Advancement
-GM's change at the end of a 1-4 session arc/episode, with most advancement occurring after that
+Characters don't just remain static, but rather change and grow in response to the actions they take and world around them. There are three main types of advancement, **Upkeep**, **Milestones**, and **Breakthroughs**, in addition to an **End of Arc Roundup**.
 
-Major advancements after completing a certain number of different difficulty quests/character achievements (Could be tide into goal aspects, complete a goal, defined by your aspect, get a major advancement. Maybe a couple of ways on top of that, defined by the group ahead of time?) 
+#### Upkeep
+**Upkeep** is the change that occurs in a moment of respite, focused on allowing characters adapt to their circumstances. Characters earn an Upkeep at the end of a session of play and gain the following benefits:
 
-Quests translate into like achievement/Xp points depending on difficulty? Or maybe just 1 to 1?
+**Choose 1:**
+- Swap the value of two skills on your sheet
+- Replace one +1 skill on your sheet with a new skill
+- Swap out an existing stunt
+- Modify a single piece of gear without adding additional refresh
+- Spend 1 point of refresh
 
-Goals + Quests completed + Achievements = Advancement
+**All of the Following:**
+- Cash-out props
 
-PC's get normal advancement
+**Always:**
+- Advance minor consequences by one stage - put minor consequences into recovery, or if in recovery clear them
+- When appropriate, clear stress
 
-BBEG get advancement based on beating PC's?
+**[Optional] Resting:** When using the optional resting rules, characters may receive an upkeep advancement after resting in place of receiving one at the end of the session.
 
-NPC's are static?
+#### Milestones
+**Milestones** represent a break in the action where characters train and recover before they're next adventure. Characters earn a Milestone after then end of a GM's Arc, usually between 1-4 sessions, and gains the following benefits:
 
-Alternate advancement using memories from #hunt?
+**All of the Following:**
+- Benefits of an Upkeep
+- Spend up to all free refresh
+- Loot up to the loot limit
+- Cash-out loot
 
-#### Timing
+**Always:**
+- Advance moderate consequences by one step - put moderate consequences into recovery, or if in recovery clear them
+
+#### Breakthroughs
+**Breakthroughs** are the moments where characters step back to reflect on all they've achieved. Characters earn a Breakthrough at the end of the Arc in which they fulfill their Goal aspect. If approved by the table, the resolution of other character or world feature aspects can also be awarded a Breakthrough.
+ 
+ **All of the Following:**
+ - An additional point of refresh
+ - All the benefits of a Milestone
+ - The Addition of a World Feature
+
+**Always:**
+- Advance severe consequences by one step - put severe consequences into recovery, or if in recovery clear them
+- Rename an extreme consequence
+
+Each additional breakthrough earned by characters increases the the loot limit by one until the character leaves play.
+
+#### End of Arc Roundup
+At the end of every Arc, there is an **End of Arc Roundup** to help progress the world. Players should do the following as a group:
+
+- Check characters for goal completion
+- GM adds world feature
+- Modify world features in response to the completed Arc based on table discussion
+
+#### [Optional] Extra Advancements
+There are a number of things players can do that might warrant an additional advancement, such as:
+- Writing a session summary
+- Maintain documentation for a world feature
+- Excellent roleplaying
+
+The group may decided to award additional advancements or other rewards during an End of Arc Roundup or Upkeep, based on the previous sessions
+
+#### BBEG Advancement
+- Two types of BBEG static & rival
+- Rivals advance alongside the PC's until defeated
+- Static BBEG's don't advance
+- New BBEG's are on par with PC's
+
+## Retirement
+- Can be caused by death or choice
+- Create world feature related to the retirement (Memorial statue, retried adventurer bar, giant rift in space time, etc.)
+- Next character gets half the previous characters starting refresh (with min?)
+- Looses bonus to loot limit but gets one piece of gear from the previous character with a value up to the number of breakthroughs they've had (min 1) -> powerful gear can also be temporarily nerfed if the character didn't have enough breakthroughs
+- Relationship aspect of how this character new the previous (Kids, friends, enemy heel face turn after their rivals tragic death, etc.)
+- NPC's can be promoted to PC, getting the difference in effective refresh?
+
+## Timing
 **Scene:** Most basic unit of campaign measurement. Each scene has a goal defined by the players and GM, and ends when that is fulfilled, failed, or shifts.
 
 **Episodes:** Individual Sessions made up of 1 or more scenes
@@ -464,13 +542,6 @@ Alternate advancement using memories from #hunt?
 **Seasons:** A collection of arcs leading up to a major change in the world, such as a party member or BBEG dying/retiring, a feature on the world map being changed forever or a multi-arc/character goal being completed. Can also occur if the players feel things need to be shaken up
 
 **Campaign:** The some total of everything played in the game
-
-#### End of Arc Round-Up
-Players convene to make changes to the world
-
-Award most roleplaying and awesome moments
-
-Every arc a player completes gets them ability to change the world? -> Fate points can’t be used to declare major world features, that costs a refresh? At the end of every Arc, players get to add one for free?
 
 ## Monsters
 Fate Fantastic Creatures
