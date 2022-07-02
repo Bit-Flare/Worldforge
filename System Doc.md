@@ -99,7 +99,7 @@ Skills for different styles or genres of campaigns
 
 **Language:** On a per language basis. +4 being a native speaker
 
-**Local Knowledge:** Understanding and ability to maximize utility of a place. Can either be a general skill if the setting is in a single region/city/town/etc. or on a per location basis 
+**Local Knowledge:** Understanding and ability to maximize utility of a place. Can either be a general skill if the setting is in a single region/city/town/etc. or on a per location basis
 
 **Adventuring/Dungeonering:** Catch all for adventuring knowledge (experience with monsters, common solutions, historic dungeon layouts, etc.)
 
@@ -111,7 +111,7 @@ Skills for different styles or genres of campaigns
 
 **Long Haul:** Navigate the highways, drive motor vehicles, know which gas station food will poison you, find roadside way stations (motels, gas stations, rest stops, etc.), and figuring out the most likely route for someone to take. Stunts might give familiarity with specific regions or provide justification for using Long Haul in place of Contacts or Pilot. Good for roadtrip games
 
-**Caravan:** Like long haul, but for more historic or post-apocalyptic settings, and might include aspects of trading 
+**Caravan:** Like long haul, but for more historic or post-apocalyptic settings, and might include aspects of trading
 
 #### Skill Categories
 All skills are sorted into 1 of 5 categories: Physical, Mental, Social, Technical, and Specialty. By default these categories are only for ease of organization, and have no mechanical effect. However, player stunts or optional modules can interact with them. The default set of cover a fairly broad range of settings, though a skills place can changes places if appropriate.
@@ -205,7 +205,7 @@ All advanced gear has a total effective refresh, and is marked like a character 
 
 **Loot** is created without a skill roll, and costs the gears total effective free refresh to add to a characters sheet. Loot without out any decreases in cost function mostly as flavor, as the character could gain the same benefit by purchasing the abilities directly. Loot with decreases in cost can function as a way to increase power with increased risk.
 
-Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh. 
+Both **Loot** and **Props** can be given out during adventures without incurring any cost to the character. GM's can give out props as powerful as they like, as long as they go away at the end of an arc, become a world feature, or are purchased as permanent by a player with their remaining free refresh.
 
 **Loot Limit:** The total effect refresh of all loot given out by GM's can't be greater than the total breakthroughs earned by current party members (Minimum 1) per Arc. As characters undergo character development, their capacity for power gain increases.
 
@@ -253,11 +253,8 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 ## Magic & Superpowers
 
 There are several pre-made options for including magic in a campaign where it’s appropriate. The systems vary in there degree of complexity and rigidity depending on the style of play. None of the systems are inherently mutually exclusive, and can be used with other magic systems, though they may require tweaking to be balanced against one and other.
-<<<<<<< HEAD
 
--Add in bit on superpowers (like venture city)
-=======
->>>>>>> 2f14ae3930c43ce9d39f051e28ff8d56daea4006
+- Add in bit on superpowers (like venture city)
 
 #### None
 If magic doesn't fit a campaign, don't include it.
@@ -284,7 +281,7 @@ Spells can either come from a predefined list, or be created dynamically by play
 | Druid/Ranger   | Nature/Survival  |
 | Psionic        | Will             |
 | Sorcerer       | Will             |
-| Warlock        | Contacts         | 
+| Warlock        | Contacts         |
 
 - **Schooled Magic:** All spells are part of one or more schools, as listed on their sheet. These schools don't do anything on their own, but aspects, stunts, and abilities may tie into them for additional effect
 - **Learned Spells:** Spells can't be created dynamically as players cast them, but rather have to be learned, either through study or observation. Spells are treated as a form of gear between **Loot** and **Props**. They can be found during adventures as gear, and learned by a character with a successful magic roll. If the spell's use is limited to the adventure, then it can be treated as a prop. If it is permanent, it can't have an effective refresh more then the current maximum for loot, and anyone who meets the spells requirements can add it to their spell-list. Characters can attempt to create a spell through research. (Add in spellcrafting system where permanent spells additions take longer and are harder to do, but don't require additional refresh cost, and limited use spells function like props)
@@ -334,10 +331,10 @@ The Almanac is the document in which the game world is describe and changed. It 
 - Faces
 
 **The Adventuring Party**
-The adventuring party is almost a character in itself, holding a reputation, talents and core ideals. 
+The adventuring party is almost a character in itself, holding a reputation, talents and core ideals.
 Describe the adventuring party, and the PC’s roll in it. From this description make a Party Concept and Party Trouble aspect, along with one or two blank aspect slots. The blank aspects will be developed during play. These are normal aspects that can be invoked or compelled. Any party aspect that is compelled places a fate point in a shared pool that is able to be used by any party members.
 Pick one party skill rated at fair (+2), two skills rated at average (+1) and one stunt for the party. The party also has the reputation track extra
-Players may use the parties skill or stunts rather than their own, in cases where the Party’s reputation would help them succeed in their task. Additionally, players may spend a fate point to use a party skills in addition to their own, additively. 
+Players may use the parties skill or stunts rather than their own, in cases where the Party’s reputation would help them succeed in their task. Additionally, players may spend a fate point to use a party skills in addition to their own, additively.
 Adventuring Parties receive advancements as players do, and all members decide on what improvements to pick. If players are receiving advancements unevenly, choose either to have the advancements of the party match those of the player with the most advancements, or achieve advancements once the majority of party members have them. Any refresh gain this way contributes to the shared party pool at the beginning of the session
 Additionally, Parties have an extreme consequence slot that any member can use to mitigate stress, describing how they pass the damage off on to the party, and irreparably change the bond between its members
 Maybe give players the option to burn party skill and stunts for bonuses/stress soaking?
@@ -358,7 +355,7 @@ Aspects are a fundamental part of a character, describing them and their place i
 **Other Aspect:**
 Destiny Aspect?
 
-Characters may gain temporary situational aspects, but otherwise are loosely limited to these. Aspects have no refresh cost. 
+Characters may gain temporary situational aspects, but otherwise are loosely limited to these. Aspects have no refresh cost.
 
 #### Skills
 Skills are the standard abilities characters are good at. When picking skills, refresh is traded for skill points at the cost of one refresh for 4 skill points. Any skill without points is rated at a +0. Each point spent on a skill is equal to a +1, so 3 points spent on a skill means a +3. The maximum number of points that can be spent on a skill is equal to the number of refresh spent on skills.
@@ -402,7 +399,7 @@ Allies, companions, and patrons are three different but similar things, each hav
 
 **Allies**
 
-**Patrons** Give benefit for some cost, might be a parent organization, or something 
+**Patrons** Give benefit for some cost, might be a parent organization, or something
 
 #### [Optional] Reputation Track
 PC’s, parties, and other major characters each have an extra called the reputation track, with entries for each region or local they’ve been to and made an impression on. Each entry has a fame/infamy skill, along with a reputation aspect that describe the character of their reputation. These can be interacted with like normal skills and aspects. At the end of a session, if the PC’s or party took major actions (or inaction) in a region the aspect can be updated. Increasing the fame/infamy skill and swapping out the reputation aspect can either be done at advancements or as a reward by the party at the end of Arc round-up
@@ -432,9 +429,9 @@ Infiltration (Fate Codex Anthology Volume 1, 59)
 
 Expanded Chase Rules (Fate System Toolkit, pg 52)
 
-Collateral Consequences (Fate System Toolkit, pg 61)? 
+Collateral Consequences (Fate System Toolkit, pg 61)?
 
-Corruption (Fate Codex Anthology Volume 2, pg 50)? 
+Corruption (Fate Codex Anthology Volume 2, pg 50)?
 
 Conflict Countdowns & Twists (Fate Codex Anthology Volume 2, pg 108)
 
@@ -494,7 +491,7 @@ Characters don't just remain static, but rather change and grow in response to t
 
 #### Breakthroughs
 **Breakthroughs** are the moments where characters step back to reflect on all they've achieved. Characters earn a Breakthrough at the end of the Arc in which they fulfill their Goal aspect. If approved by the table, the resolution of other character or world feature aspects can also be awarded a Breakthrough.
- 
+
  **All of the Following:**
  - An additional point of refresh
  - All the benefits of a Milestone
