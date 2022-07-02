@@ -253,8 +253,11 @@ Many of the wealth systems can also be abstracted to represent influence, in gam
 ## Magic & Superpowers
 
 There are several pre-made options for including magic in a campaign where it’s appropriate. The systems vary in there degree of complexity and rigidity depending on the style of play. None of the systems are inherently mutually exclusive, and can be used with other magic systems, though they may require tweaking to be balanced against one and other.
+<<<<<<< HEAD
 
 -Add in bit on superpowers (like venture city)
+=======
+>>>>>>> 2f14ae3930c43ce9d39f051e28ff8d56daea4006
 
 #### None
 If magic doesn't fit a campaign, don't include it.
